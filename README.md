@@ -1,22 +1,22 @@
 # 🚀 Smart Stock REST API - Spring Boot Basic
-ภาษาไทย(#thai)| English(#english) | Chinese(#china)
+[ภาษาไทย](#thai)| [English](#english) | [中文](#china)
 
 ---
 
-<a href="thai"></a>
+<a name="thai"></a>
 ### 🇹🇭 ภาษาไทย (Thai)
 โปรเจกต์นี้เป็นระบบจัดการสต็อกสินค้าพื้นฐานที่สร้างด้วย **Spring Boot** โดยใช้สถาปัตยกรรมแบบ 3 ชั้น (Controller, Service, Repository) เพื่อเชื่อมต่อกับฐานข้อมูล MySQL และส่งข้อมูลออกมาเป็นรูปแบบ JSON
 * **สิ่งที่ได้เรียนรู้:** การใช้งาน Spring Data JPA, การจัดการ REST Controller และการแก้ไขปัญหา Git Authentication
 ---
 
-<a href="english"></a>
+<a name="english"></a>
 ### 🇺🇸 English (english)
 This is a basic product stock management system built with **Spring Boot** . It follows the **3-Tier Architecture** (Controller,Service,Repository) to interact with a MySQL database and service data in JSON format.
 * **Key Learning:** Spring Data JPA implementation , Rest API design , and Git credential troubleshooting.
 
 ---
 
-<a href="china"></a>
+<a name="china"></a>
 ### 🇨🇳 中文 (Chinese)
 这是一个基于 Springboot 构建的基础产品库存管理系统 该项目采用了三成架构 （控制器，服务， 存储库）通过连接MySQL 数据库并以JSON 格式提供数据
 
